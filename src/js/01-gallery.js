@@ -25,3 +25,5 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'Alt',
   captionDelay: 250,
 });
+
+console.log('test  line');
